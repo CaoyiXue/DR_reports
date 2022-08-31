@@ -9,5 +9,5 @@ Read a little about bottleneck from ResNet paper.\
 Start from attention is all you need paper to learn about transformer
 
 ### Week2 plan:
-1. learn deeper about MobileNet
+1. learn MobileNet deeper
 2. read more about transformer and ViT
