@@ -11,3 +11,5 @@ Start from attention is all you need paper to learn about transformer
 ### Week2 plan:
 1. learn MobileNet deeper
 2. read more about transformer and ViT
+### Week2, 3 summary:
+start from RNN, attention to transfromer and ViT.
